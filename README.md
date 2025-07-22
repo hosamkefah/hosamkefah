@@ -51,7 +51,6 @@
 ## ⚡ Fun Facts
 
 - 🎮 Fan of Red Dead Redemption 2 (especially the Rhodes chapter!)
-- 🧠 Enjoy mentoring students in Quran memorization (ديوان الحفاظ)
 - ☁️ Currently learning AWS & cloud technologies
 
 ---
