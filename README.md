@@ -23,7 +23,7 @@
 - Django, Firebase, MySQL, Oracle
 
 ### Tools & Concepts:
-- Git & GitHub, Agile Development, Clean Code, OOP, REST APIs
+- Git & GitHub, Agile Development, Clean Code, OOP
 
 ### Systems & Hardware:
 - UNIX/Linux, Assembly, Verilog, FPGA
